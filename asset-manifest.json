@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Movie_App_oddam/static/css/main.65946507.chunk.css",
+    "main.js": "/Movie_App_oddam/static/js/main.f4878769.chunk.js",
+    "main.js.map": "/Movie_App_oddam/static/js/main.f4878769.chunk.js.map",
+    "runtime-main.js": "/Movie_App_oddam/static/js/runtime-main.506e6e39.js",
+    "runtime-main.js.map": "/Movie_App_oddam/static/js/runtime-main.506e6e39.js.map",
+    "static/js/2.efd26cab.chunk.js": "/Movie_App_oddam/static/js/2.efd26cab.chunk.js",
+    "static/js/2.efd26cab.chunk.js.map": "/Movie_App_oddam/static/js/2.efd26cab.chunk.js.map",
+    "index.html": "/Movie_App_oddam/index.html",
+    "static/css/main.65946507.chunk.css.map": "/Movie_App_oddam/static/css/main.65946507.chunk.css.map",
+    "static/js/2.efd26cab.chunk.js.LICENSE.txt": "/Movie_App_oddam/static/js/2.efd26cab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.506e6e39.js",
+    "static/js/2.efd26cab.chunk.js",
+    "static/css/main.65946507.chunk.css",
+    "static/js/main.f4878769.chunk.js"
+  ]
+}
